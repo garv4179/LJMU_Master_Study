@@ -1,0 +1,15 @@
+{
+  "dataset_path": "/Users/garvahuja/Desktop/Code results/customer_support_data.csv",
+  "schema_type": "message_level",
+  "data_mode": "telecom_filtered",
+  "raw_rows": 976271,
+  "selected_rows": 310601,
+  "qa_pairs": 141411,
+  "train_rows": 113015,
+  "test_rows": 28396,
+  "vector_backend": "TF-IDF fallback + NumPy search",
+  "azure_openai_enabled": false,
+  "best_model_by_composite_score": "Optimised Hybrid RAG",
+  "best_composite_score": 0.7000563142351295,
+  "warning": "Proxy metrics are experimental indicators, not a substitute for human evaluation. Confirm telecom relevance before using results in the thesis."
+}
